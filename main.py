@@ -14,7 +14,7 @@ SOURCE_CHATS = [
 
 TARGET_CHAT = -1003470822099  # قناتك
 
-AFFILIATE_LINK = "https://quotex.io/your-affiliate-link"
+AFFILIATE_LINK = "https://broker-qx.pro/sign-up/?lid=1696288"
 
 # =============================
 # 2️⃣ تشغيل العميل
