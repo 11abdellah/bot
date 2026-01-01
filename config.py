@@ -1,0 +1,8 @@
+API_ID = 30581605
+API_HASH = "9f831b4169d96be5676e843bc9ee7db5"
+
+SOURCE_CHATS = [
+    -1001933446347   # Eyad Trader Bot
+]
+
+TARGET_CHAT = -1003470822099   # قناتك الخاصة
